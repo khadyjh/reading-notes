@@ -14,9 +14,12 @@ I will write down what i learned and what i wanna to learn from the reading each
 ```
 
 
+
+
+
 | Syntax      | Description |
 | ----------- | ----------- |
-| read 1      | [Link](https://github.com/khadyjh/reading-notes)     |
-| read 2      | [Link](https://github.com/khadyjh/reading-notes)      |
+| read 1      | [Link](https://khadyjh.github.io/reading-notes/)     |
+| read 2      | [Link](https://khadyjh.github.io/reading-notes/)      |
 
 
