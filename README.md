@@ -19,7 +19,7 @@ I will write down what i learned and what i wanna to learn from the reading each
 
 | classes     | Links |
 | ----------- | ----------- |
-| read 1      | [Link](https://khadyjh.github.io/reading-notes/)     |
+| sql         | [Link](https://github.com/khadyjh/reading-notes/blob/main/sql.md)     |
 | read 2      | [Link](https://khadyjh.github.io/reading-notes/)      |
 
 
