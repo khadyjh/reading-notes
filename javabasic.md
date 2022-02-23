@@ -135,3 +135,21 @@ to make sure your program is written correctly according to the rules of the pro
 
  in java compiler creates the bytecode instructions. These instructions are stored in .class files and can be executed by the Java Virtual Machine.
 
+ here is some keywords in java 
+
+| Keyword      | What It Does|
+| -----------  | -----------|
+|    boolean          |      Indicates that a value is either true or false.      |
+|    break         |       Jumps out of a loop or switch. |
+|    catch      |       Introduces statements that are executed when something interrupts the flow of execution in a try clause.     |
+|    class     |        	Introduces a class — a blueprint for an object.    |
+|    final        | 	Indicates that a variable’s value cannot be changed, that a class’s functionality cannot be extended, or that a method cannot be overridden.           |
+
+
+resources 
+
+[java Basic](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+
+[compiler](https://www.reddit.com/r/explainlikeimfive/comments/233dq5/eli5_what_does_it_mean_to_compile_code/)
+
+[cheat-sheet](https://www.dummies.com/article/technology/programming-web-design/java/java-for-dummies-cheat-sheet-207676)
