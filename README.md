@@ -19,8 +19,8 @@ I will write down what i learned and what i wanna to learn from the reading each
 
 | classes     | Links |
 | ----------- | ----------- |
-| sql         | [Link](https://github.com/khadyjh/reading-notes/blob/main/sql.md)     |
-| terminal    | [Link](https://github.com/khadyjh/reading-notes/blob/sqlReading/terminal.md)      |
-| java basic  | [link](https://github.com/khadyjh/reading-notes/blob/main/javabasic.md)             |
-|Loops and package| [Link](https://github.com/khadyjh/reading-notes/blob/main/loopAndImport.md)
-|  Growth Mindset             | [Link](https://github.com/khadyjh/reading-notes/blob/main/GrowthMindset.md)           |
+| sql         | [Link](sql.md)  |
+| terminal    | [Link](terminal.md) |
+| java basic  | [link](javabasic.md)|
+|Loops and package| [Link](loopAndImport.md)
+|Growth Mindset | [Link](GrowthMindset.md) |
