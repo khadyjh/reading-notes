@@ -24,3 +24,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 | java basic  | [link](javabasic.md)|
 |Loops and package| [Link](loopAndImport.md)
 |Growth Mindset | [Link](GrowthMindset.md) |
+| Maps, primitives, File I/O| [Link](MapsprimitivesFileI/O.md)                          |
