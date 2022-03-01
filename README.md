@@ -26,3 +26,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 |Growth Mindset | [Link](GrowthMindset.md) |
 | Maps, primitives, File I/O| [Link](MapsprimitivesFileI/O.md) |
 | OOP            | [Link](oop.md)           |
+|Big O           |[Link](BigO.md)  |
