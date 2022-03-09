@@ -28,3 +28,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 | OOP            | [Link](oop.md)           |
 |Big O           |[Link](BigO.md)  |
 |Inheritance and Interfaces| [Link](InheritanceAndInterfaces.md)|
+|OO Design|[Link](OODesign.md)  |
