@@ -36,3 +36,8 @@ int vote(Authentication authentication, S object,
         Collection<ConfigAttribute> attributes);
 ```
 
+
+resources
+
+[Spring Authentication](https://spring.io/guides/topicals/spring-security-architecture/)
+
