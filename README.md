@@ -36,3 +36,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 |Related Resources and Integration Testing|[Link](./RelatedResourcesandIntegrationTesting.md)  |
 |Trees|[Link](./Trees.md)       |
 |Spring Authentication|[Link](./SpringAuthentication.md)           |
+|Spring Authorization|[Link](./SpringAuthorization.md)   |
