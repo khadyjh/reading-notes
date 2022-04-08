@@ -1,95 +1,41 @@
 # Trees
 
-In computer science, a tree is a widely used abstract data type that simulates a hierarchical tree structure, with a root value and subtrees of children with a parent node, represented as a set of linked nodes.
+it non linear data structure consists of nodes, and it have root and leaf 
 
-some important definitions :
-- Node - A Tree node is a component which may contain its own values, and references to other nodes
-- Root - The root is the node at the beginning of the tree
-- K - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
-- Left - A reference to one child node, in a binary tree
-- Right - A reference to the other child node, in a binary tree
-- Edge - The edge in a tree is the link between a parent and child node
-- Leaf - A leaf is a node that does not have any children
-- Height - The height of a tree is the number of edges from the root to the furthest leaf
+
+
+## binary tree 
+when tree have only two child for each node it called binary tree 
+
+there is special kind whare it  organized in a manner where all values that are smaller than the root are placed to the left, and all values that are larger than the root are placed to the right. 
+
+## K-ary Trees
+
+tree can have more than two child to each node then it called k-ary tree 
+
 
 ## Traversals
+to search in tree you have to loop through it , so there is different ways to loop through it  :
 
-### Depth First
-Depth first traversal is where we prioritize going through the depth (height) of the tree first.
+### Depth first traversal :
 
-Here are three methods for depth first traversal:
+  where we go to the depth first then up , there is three order to traverse 
+  - Pre-order: root >> left >> right
 
-- Pre-order: root >> left >> right
+     where we go to the root node at first then to left node then the right node  
 - In-order: left >> root >> right
+
+    where we go to the left node at first then to root node then the right node
 - Post-order: left >> right >> root
 
-**Pre-order**
+    where we go to the left node at first then to right node then the root node
 
-```
-ALGORITHM preOrder(root)
-
-  OUTPUT <-- root.value
-
-  if root.left is not NULL
-      preOrder(root.left)
-
-  if root.right is not NULL
-      preOrder(root.right)
-```
-
-**In-order**
-
-```
-ALGORITHM inOrder(root)
-// INPUT <-- root node
-// OUTPUT <-- in-order output of tree node's values
-
-    if root.left is not NULL
-        inOrder(root.left)
-
-    OUTPUT <-- root.value
-
-    if root.right is not NULL
-        inOrder(root.right)
-```
-
-**Post-order**
-
-```
-ALGORITHM postOrder(root)
-// INPUT <-- root node
-// OUTPUT <-- post-order output of tree node's values
-
-    if root.left is not NULL
-        postOrder(root.left)
-
-    if root.right is not NULL
-        postOrder(root.right)
-
-    OUTPUT <-- root.value
-```
 
 ## Breadth First
+where wo go level by level from the the root to the leaf ( from left to the right )
 
-iterate through each level in the tree node by node from the root
 
-```
-ALGORITHM breadthFirst(root)
-// INPUT  <-- root node
-// OUTPUT <-- front node of queue to console
 
-  Queue breadth <-- new Queue()
-  breadth.enqueue(root)
 
-  while ! breadth.is_empty()
-    node front = breadth.dequeue()
-    OUTPUT <-- front.value
-
-    if front.left is not NULL
-      breadth.enqueue(front.left)
-
-    if front.right is not NULL
-      breadth.enqueue(front.right)
-```
 
 to more info visit [here](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html) 
