@@ -16,3 +16,5 @@ A side-effect is any operation your function performs that is not related to com
 - DOM manipulation
 - Reading/writing files
 
+
+
