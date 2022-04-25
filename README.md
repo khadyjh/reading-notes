@@ -40,3 +40,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 |Web App Security|[Link](./WebAppSecurity.md)  |
 |Purely functional programming|[Link](./Purelyfunctionalprogramming.md)   |
 |Android Fundamentals|[Link](./AndroidFundamentals.md)                                  |
+|Intents, Activities, and SharedPreferences|[Link](./IntentsActivitiesandSharedPreferences.md)      |
