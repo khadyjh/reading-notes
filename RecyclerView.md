@@ -18,3 +18,8 @@ The Adapter: The adapter is the main code responsible for RecyclerView. It holds
 - onBindViewHolder():which deals with the setting of different data and methods related to clicks on particular items of the RecyclerView.
 
 - getItemCount():which Returns the length of the RecyclerView.
+
+
+ resources :
+
+ [RecyclerView ](https://developer.android.com/guide/topics/ui/layout/recyclerview#java)
