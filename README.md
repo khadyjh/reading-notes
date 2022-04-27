@@ -41,3 +41,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 |Purely functional programming|[Link](./Purelyfunctionalprogramming.md)   |
 |Android Fundamentals|[Link](./AndroidFundamentals.md)                                  |
 |Intents, Activities, and SharedPreferences|[Link](./IntentsActivitiesandSharedPreferences.md)      |
+|Recycler View |[Link](./RecyclerView.md)                    |
