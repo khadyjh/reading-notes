@@ -20,3 +20,14 @@ to use the Room database in your project you need to declare three component
  
 Room provides some method to allow the developers to insert, update, and delete without the use of quiery  
 also the developers can provide his custom query 
+
+
+resources
+
+[Save data in a local database using Room](https://developer.android.com/training/data-storage/room)
+
+[Accessing data using Room DAOs ](https://developer.android.com/training/data-storage/room/accessing-data#java)
+
+[Define relationships between objects ](https://developer.android.com/training/data-storage/room/relationships)
+
+[Defining data using Room entities](https://developer.android.com/training/data-storage/room/defining-data)
