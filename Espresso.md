@@ -28,3 +28,9 @@ AWS Amplify has components for:
 - Stepping Outside The Box
 - Potential For Surprise Bills
 
+
+
+resources
+
+[What Is AWS Amplify](https://beabetterdev.com/2021/09/22/what-is-aws-amplify/)
+
