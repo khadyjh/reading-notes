@@ -47,7 +47,16 @@ for developer
 - Architectural complexity.
 - Execution duration is capped.
 
+# Data modeling
+Amplify automatically creates Amazon DynamoDB database tables for GraphQL types annotated with the @model directive in your GraphQL schema. You can create relations between the data models via the @hasOne, @hasMany, @belongsTo, and @manyToMany directives.
+
+"Todo" is a database table created by default. @model will also automatically add an id field as a primary key to the database table
+
 
 resources
 
 [What is Serverless Architecture? What are its Pros and Cons?](https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
+
+[Data modeling](https://docs.amplify.aws/cli/graphql/data-modeling/#configure-a-primary-key)
+
+[AWS Amplify Kool-Aid](https://aws.amazon.com/amplify/)
