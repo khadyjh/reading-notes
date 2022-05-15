@@ -20,7 +20,7 @@ Function-as-a-Service, or FaaS, is a kind of cloud computing service that allows
 
 FaaS is an event-driven execution model that runs in stateless containers and those functions manage server-side logic and state through the use of services from a FaaS provider.
 
-###Principles of FaaS:
+### Principles of FaaS:
 - Complete management of servers
 - Invocation based billing
 - Event-driven and instantaneously scalable
