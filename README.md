@@ -49,3 +49,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 | Monetization                               | [Link](./Monetization.md)                          |
 | Graphs                                     | [Link](./Graphs.md)                                |
 | Cognito                                    | [Link](./Cognito.md)                               |
+| S3                                         | [Link](./S3.md)                                    |
