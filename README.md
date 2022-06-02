@@ -51,3 +51,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 | Cognito                                    | [Link](./Cognito.md)                               |
 | S3                                         | [Link](./S3.md)                                    |
 | Notifications                              | [Link](./Notifications.md)                         |
+| Kinesis                                    | [Link](./Kinesis.md)                               |
