@@ -52,3 +52,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 | S3                                         | [Link](./S3.md)                                    |
 | Notifications                              | [Link](./Notifications.md)                         |
 | Kinesis                                    | [Link](./Kinesis.md)                               |
+| Ethics                                     | [Link](./Ethics.md)                                |
