@@ -53,3 +53,4 @@ I will write down what i learned and what i wanna to learn from the reading each
 | Notifications                              | [Link](./Notifications.md)                         |
 | Kinesis                                    | [Link](./Kinesis.md)                               |
 | Ethics                                     | [Link](./Ethics.md)                                |
+| Intent Filters                             | [Link](./Intentfilters.md)                         |
